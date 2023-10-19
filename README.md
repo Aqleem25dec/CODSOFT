@@ -1,2 +1,4 @@
-# grade 
-# it is a basic calculator for grades for 3 subjects
+codsoft Internship
+interface is for atm interface
+grade calculates grade for stugent of student for 3 subjects
+number generator is a game for number guessing
