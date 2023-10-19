@@ -1,4 +1,4 @@
 codsoft Internship
-interface is for atm interface
-grade calculates grade for stugent of student for 3 subjects
-number generator is a game for number guessing
+1.interface is for atm interface
+2.grade calculates grade for stugent of student for 3 subjects
+3.number generator is a game for number guessing
